@@ -27,6 +27,10 @@
 [![](https://img.shields.io/badge/Return%20to%20Exercise-%E2%86%92-1f883d?style=for-the-badge&logo=github&labelColor=197935)](https://github.com/luiselopezlopez/skills-getting-started-with-github-copilot/issues/1)
 [![GitHub Skills](https://img.shields.io/badge/Explore%20GitHub%20Skills-000000?style=for-the-badge&logo=github&logoColor=white)](https://learn.github.com/skills)
 
+### 📋 Ready to continue your Copilot journey?
+
+Check out the **[Starting Guide](./STARTING_GUIDE.md)** for the recommended order to complete all four Copilot labs, with links, time estimates, and a progress checklist.
+
 *There's no better way to learn than building things!* 🚀
 
 </div>
